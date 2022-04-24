@@ -39,3 +39,10 @@ The project consists of the files
   * streetConnectionPoint.py - represents a node that connects two streets
   * streetNetwork.py - represents a full street network consisting of many streets
   * mathUtil.py - provides space to add math utility
+
+## Starting the simulator
+
+The simulator is started using the mainStreetNetworkTest.py file.
+
+Aside from that, relevant to the user are only car.py and the setupStreetNetwork_*.py
+files.
